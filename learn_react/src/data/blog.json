@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "title":"Hello World",
+        "content":"Some text to desribe my great feelings for saying hello to the world",
+        "slug":"hello-world"
+    },
+    {
+        "id":2,
+        "title":"Hello World #2",
+        "content":"#2: Some other text to desribe my great feelings for saying hello to the world",
+        "slug":"hello-world2"
+    }
+]
